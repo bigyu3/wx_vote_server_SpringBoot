@@ -1,0 +1,20 @@
+
+F
+java:S1481"*Remove this unused "scene" local variable.(¸ò¢\8©ûñ¬”/
+U
+java:S1854"9Remove this useless assignment to local variable "scene".(¸ò¢\8©ûñ¬”/
+U
+java:S1128"3Remove this unused import 'com.gty.entity.TblUser'.(Ôµ‰«ÿÿÿÿÿ8ÜÒ¬”/
+K
+java:S1481")Remove this unused "code" local variable.(Ü»ıÿÿÿÿ8éÑ¸‚•/
+h
+java:S1128	"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8àÀô¥”/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¢•Ë¬”/
+]	java:S125%"<This block of commented-out lines of code should be removed.(œÑ·şÿÿÿÿ8©ûñ¬”/
+Z
+java:S1854"8Remove this useless assignment to local variable "code".(Ü»ıÿÿÿÿ8éÑ¸‚•/
+Y
+java:S1854"<Remove this useless assignment to local variable "userinfo".(ÊÌâÄ8¾ó¸‚•/
+J
+java:S1481"-Remove this unused "userinfo" local variable.(ÊÌâÄ8¾ó¸‚•/

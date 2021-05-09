@@ -1,0 +1,24 @@
+###### WEB 路径 端口 ######
+server:
+  servlet:
+    context-path: /
+  port: 9345
+
+
+
+#################### mysql数据库连接配置 #################
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/hospital?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=CTT
+#    username: root
+#    password: root
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/wx_votesystem?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=CTT
+    username: root
+    password: root
+
+
